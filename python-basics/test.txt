@@ -1,0 +1,8 @@
+The first step in data analysis is finding data to analyze.
+All too often, this crucial first step is next to impossible. Data that meets our needs may be proprietary, expensive, hard to collect, or simply may not exist.
+Finding a suitable dataset is the most common problem I face when wanting to try out a new library or technique — or beginning to write a new article.
+Here we solve this problem, once and for all, by creating our own dataset!
+The Widget Factory
+Here we will create a dataset for an imaginary widget factory.
+Our widget factory has employees whose only job is to make widgets. The factory monitors widget making productivity by counting the number of widgets made and how fast the workers can make them. Making a widget consists of three steps, all of which are timed by the widget monitoring system.
+Let’s get started making our fake widget factory dataset!
